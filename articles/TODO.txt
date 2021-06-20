@@ -1,0 +1,8 @@
+TODO
+=====
+
+* うるう秒におけるシステムクロックの挙動
+* ISO 8601に言及
+* TODO: UTC+9 v.s. JST-9 表記 (環境変数 TZ ?)
+* TODO: EST5EDT とか PST8PDT とか
+* データベース上でのタイムスタンプ逆進に触れていただけると、エンジニア的には身近な問題に感じる気がします。 https://www.ashisuto.co.jp/db_blog/article/20161111_leap_second_postgres.html
